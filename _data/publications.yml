@@ -2,10 +2,10 @@ main:
 
   - title: Deep learning-based explainable target classification for synthetic aperture radar images
     authors: <strong>Mandeep</strong>, Husanbir Singh Pannu, Avleen Malhi
+    conference_short: HSI
     conference: International Conference on Human System Interaction <strong>(HSI)</strong>, 2020.
     pdf: https://ieeexplore.ieee.org/abstract/document/9142658
     code: https://github.com/M-I-Dx/MSTAR-Classification
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/publications/hsi2020.png
     notes: First Author
 
