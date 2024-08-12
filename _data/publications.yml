@@ -1,14 +1,13 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: Deep learning-based explainable target classification for synthetic aperture radar images
+    authors: <strong>Mandeep</strong>, Husanbir Singh Pannu, Avleen Malhi
+    conference: International Conference on Human System Interaction <strong>(HSI)</strong>, 2020.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9142658
+    code: https://github.com/M-I-Dx/MSTAR-Classification
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/publications/hsi2020.png
+    notes: First Author
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
