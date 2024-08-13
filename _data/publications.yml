@@ -9,13 +9,29 @@ main:
     image: ./assets/img/publications/hsi2020.png
     notes: First Author
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: SpaceML Worldview Search - Learnings from an AI citizen scientist team building a NoCode Data Curator from Unlabeled Petabyte Scale Imagery
+    authors: <strong>Mandeep</strong>, NASA IMPACT Team, SpaceML Community
+    journal: AGU Fall Meeting Abstracts
+    conference_short: AGU
+    conference: American Geophysical Union Fall Meeting (AGU), 2021.
+    pdf: https://presentations.copernicus.org/EGU21/EGU21-6853_presentation.pdf
+    code: https://github.com/spaceml-org/Active-Labeler/tree/AL_flowtest
+    image: ./assets/img/publications/agu2021.png
+    notes: Co-Author
+
+  - title: Smartphone Based Grape Leaf Disease Diagnosis and Remedial System Assisted with Explanations
+    authors: Avleen Malhi, Vlad Apopei, Manik Madhikermi, <strong>Mandeep</strong>, Kary Främling
+    conference_short: EXATMAS
+    conference: International Workshop on Explainable, Transparent Autonomous Agents and Multi-Agent Systems <strong>(EXATMAS)</strong>, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-15565-9_4
+    code: https://github.com/M-I-Dx/GDD
+    image: ./assets/img/publications/exatmas2022.png
+    notes: Lead Developer
+
+  - title: Machine Learning Based Explainable Financial Forecasting
+    authors: <strong>Mandeep</strong>, Abhishek Agarwal, Amrita Bhatia, Avleen Malhi, Priyal Kaler, Husanbir Singh Pannu
+    conference_short: ICCCI
+    conference: International Conference on Computer Communication and the Internet <strong>(ICCCI)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9850272
+    image: ./assets/img/publications/iccci2022.png
+    notes: First Author
