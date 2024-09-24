@@ -110,7 +110,7 @@ Driven machine learning engineer with a passion for advancing AI in diverse fiel
 
 - **Programming Languages:**
   - **Proficient:** Python, R, MATLAB
-  - **Familiar:** JavaScript, Bash, SQL
+  - **Familiar:** Bash, SQL
 
 - **Machine Learning and Data Science:**
   - **Core Libraries:** Pandas, NumPy, SciPy
@@ -134,7 +134,7 @@ Llama
 
 - **DevOps and MLOps:**
   - **Version Control:** Git, GitHub, GitLab, GitHub Actions
-  - **Containerization and Orchestration:** Docker, Kubeflow, Kubernetes
+  - **Containerization and Orchestration:** Docker, Kubeflow
   - **Experiment Tracking and Model Management:** Weights & Biases (Wandb)
 
 - **Problem Solving and Analytical Skills:**
